@@ -10,6 +10,7 @@ using pudy248.CoreLib;
 using System;
 using System.Collections.Generic;
 
+//ItemDefinition.Health is for some reason marked as obsolete. It is not actually obsolete.
 #pragma warning disable CS0618
 
 namespace pudy248.CompressedBlocks
